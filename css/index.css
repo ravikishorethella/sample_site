@@ -5,6 +5,20 @@ body {
   text-align: center;
 }
 
-h1 {
-  color: goldenrod;
+/* .section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 60px; 
+  border: 3px solid goldenrod;
+  padding: 5px;
+} */
+
+.section {
+  margin-top: 40px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid goldenrod;
+  padding: 2px 16px;
 }
